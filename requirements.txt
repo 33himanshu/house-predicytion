@@ -1,6 +1,5 @@
 absl-py==2.1.0
 # Editable install with no version control (ai_mentor_mvp==0.1.0)
--e c:\ai_mentor_backend
 aiofiles==23.2.1
 aiohappyeyeballs==2.4.3
 aiohttp==3.10.10
